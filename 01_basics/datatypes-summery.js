@@ -9,3 +9,9 @@ const myFunction = function(){
     console.log("Hello Worls\n");
     
 }
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive) , Heap (Non Primitive)
+
